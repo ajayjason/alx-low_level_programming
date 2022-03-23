@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* main - describes main function */
 int main(void)
 {
 	int n;
